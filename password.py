@@ -1,6 +1,3 @@
-#Adm No. : BSCIT-05-0096/2024
-#Name : Ian Waiguru
-
 import hashlib #I Imported the 'hashlib' module for secure password hashing
 import os #I Imported the 'os' module for generating random salt used in password hashing
 import re  #I Imported the 're' module for regular expressions
